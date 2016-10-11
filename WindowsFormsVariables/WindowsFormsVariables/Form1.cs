@@ -16,5 +16,15 @@ namespace WindowsFormsVariables
         {
             InitializeComponent();
         }
+
+        private void btnStrings_Click(object sender, EventArgs e)
+        {
+            string firstName;
+            firstName = textBox1.Text;
+            MessageBox.Show(firstName);
+
+            firstName = "Home and Learn";
+            MessageBox.Show(firstName);
+        }
     }
 }

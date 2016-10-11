@@ -41,6 +41,7 @@
             this.btnStrings.TabIndex = 0;
             this.btnStrings.Text = "Get Text Box Data";
             this.btnStrings.UseVisualStyleBackColor = true;
+            this.btnStrings.Click += new System.EventHandler(this.btnStrings_Click);
             // 
             // label1
             // 

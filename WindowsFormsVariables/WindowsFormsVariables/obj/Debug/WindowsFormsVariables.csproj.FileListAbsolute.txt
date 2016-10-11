@@ -1,1 +1,9 @@
 c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\bin\Debug\WindowsFormsVariables.exe.config
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\bin\Debug\WindowsFormsVariables.exe
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\bin\Debug\WindowsFormsVariables.pdb
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.csprojResolveAssemblyReference.cache
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.Form1.resources
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.Properties.Resources.resources
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.csproj.GenerateResource.Cache
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.exe
+c:\users\tori\documents\visual studio 2012\Projects\WindowsFormsVariables\WindowsFormsVariables\obj\Debug\WindowsFormsVariables.pdb
